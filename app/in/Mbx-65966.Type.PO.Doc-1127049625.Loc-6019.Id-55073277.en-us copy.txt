@@ -1,0 +1,130 @@
+PO Number & Dates
+
+Purchase Order Number     1127049625
+
+Purchase Order Date      10/12/2022
+
+Ship Not Before         10/22/2022
+
+Ship No Later Than       10/22/2022
+
+Must Arrive By          10/29/2022
+
+Additional Details
+
+Order Type            0003
+
+Currency             USD
+
+Department            00002
+
+Promotional Event       SKFEATWK39
+
+Walmart Purchase Order
+
+Ship To
+
+WAL-MART DC 6019G-GENERAL
+
+7504 EAST CROSSROADS BOULEVARD
+LOVELAND, CO, 80538, US
+
+GLN   0078742029382
+
+Bill To
+
+WAL-MART STORES, INC.
+702 S.W. EIGHTH ST.
+
+BENTONVILLE, AR 72716 US
+
+Supplier
+
+
+Payment Terms         2% 10 NET 30 based on Receipt
+of Goods
+
+F.O.B.              Collect
+
+F.O.B. Ship Point        VARIOUS ZZ
+
+Carrier              CALL4792734300#
+
+Supplier Name   SKULL SHAVER LIMITED LIABILITY
+
+Supplier Number  422765020
+
+Order Instructions
+
+NO PRETICKET TRANSMITTED
+
+
+Line
+001
+
+Item
+
+654101551
+
+GTIN
+
+850037077182 (GTIN-12)
+
+Supplier Stock #
+422765
+
+Color
+
+Size
+
+Quantity Ordered
+31
+
+UOM
+EA
+
+Pack
+1 / 1
+
+Cost
+
+339.0000
+
+Extended Cost
+
+10509.00
+
+Assortment Items
+
+Item       GTIN                 Supplier Stock #     Color    Size  Qty  UOM
+653638636    850006603404 (GTIN-12)       PBS-PRO-US       SILVER   NA   6    EA
+
+
+Allowance / Charge
+Allowance
+
+Allowance
+
+Description
+
+Unsaleable Merchandise Allowance
+Quantity Discount
+
+Percent
+1.03%
+
+1%
+
+Total
+(-108.24)
+
+(-105.09)
+
+
+Total Order Amount (Before Adjustments)
+Total Line Items        1
+
+Total Units Ordered        31
+
+10509.00
+
