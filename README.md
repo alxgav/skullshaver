@@ -1,4 +1,4 @@
-# convert txt to excel
+# convert txt to json csv
 ## decription
 take data from ~350 individual text files, and combine them into a single spreadsheet showing each PO and related information on an individual line.
 
